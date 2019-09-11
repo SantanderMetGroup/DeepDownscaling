@@ -9,6 +9,6 @@ The table below resumes the notebooks contained in this respository along with i
  
 | notebook  | Article Title | Journal | DOI  	
 |---|---|---|---
-| 2019_deepPrecipitation_GMD | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geophysical Model Development |
-| 2019_deepTemperature_GMD | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geophysical Model Development |
+| 2019_deepPrecipitation_GMD | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development |
+| 2019_deepTemperature_GMD | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development |
 | 2019_deepClimateChange_CD |  | Climate Dynamics | 
