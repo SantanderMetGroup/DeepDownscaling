@@ -9,5 +9,5 @@ The table below resumes the notebooks contained in this respository along with i
  
 | notebook  | Article Title | Journal | DOI  	
 |---|---|---|---
-| 2019_deepDownscaling_GMD (.ipynb)  | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development |
-| 2019_deepDownscaling_GMD_FULLY (.pdf, .Rmd) |  |  |
+| 2019_deepDownscaling_GMD (.ipynb)                    2019_deepDownscaling_GMD_FULLY (.pdf, .Rmd)| Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development |
+|  |  |  |
