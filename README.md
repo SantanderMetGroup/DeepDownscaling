@@ -8,7 +8,7 @@ For deep learning impplementations we use [`keras`](https://cran.r-project.org/w
 
 The table below lists the documents (notebooks, scripts, etc.) contained in this respository along with the information of the corresponding published (or submitted) papers.
  
-| notebook  | Article Title | Journal | DOI  	
+| Notebook files  | Article Title | Journal | DOI  	
 |---|---|---|---
 | 2019_deepDownscaling_GMD_CNN10 (.ipynb), 2019_deepDownscaling_GMD_FULL (.pdf, .Rmd)| Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development |
 |  |  |  |
