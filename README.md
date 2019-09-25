@@ -10,5 +10,5 @@ The table below lists the documents (notebooks, scripts, etc.) contained in this
  
 | notebook  | Article Title | Journal | DOI  	
 |---|---|---|---
-| 2019_deepDownscaling_GMD_CNN10 (.ipynb),                    2019_deepDownscaling_GMD_FULL (.pdf, .Rmd)| Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development |
+| 2019_deepDownscaling_GMD_CNN10 (.ipynb), 2019_deepDownscaling_GMD_FULL (.pdf, .Rmd)| Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development |
 |  |  |  |
