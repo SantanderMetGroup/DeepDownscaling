@@ -12,5 +12,5 @@ The table below lists the documents (Jupyter notebooks, scripts, etc.) contained
  
 | Notebook files  | Article Title | Journal | Zenodo DOI 	
 |---|---|---|---
-| 2019_deepDownscaling_GMD_CNN10 (ipynb), 2019_deepDownscaling_GMD_FULL (pdf, Rmd)| Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development | [10.5281/zenodo.3461665](https://zenodo.org/record/3461665)
+| 2019_deepDownscaling_GMD_CNN10 (ipynb), 2019_deepDownscaling_GMD_FULL (pdf, Rmd)| Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development | [10.5281/zenodo.3462428](https://zenodo.org/record/3462428)
 |  |  |  |
