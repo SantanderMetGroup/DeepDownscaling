@@ -10,7 +10,9 @@ For deep learning impplementations we use [`keras`](https://cran.r-project.org/w
 
 The table below lists the documents (Jupyter notebooks, scripts, etc.) contained in this respository along with the information of the corresponding published (or submitted) papers.
  
-| Notebook files  | Article Title | Journal | Zenodo DOI 	
+| Notebook files  | Article Title | Journal | Paper files 	
 |---|---|---|---
-| 2020_Bano_GMD | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development | [10.5281/zenodo.3631834](https://zenodo.org/record/3631834)
+| 2020_Bano_GMD | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development | -
+| - | The Importance of Inductive Bias in Convolutional Models for Statistical Downscaling | Proceedings of the 9th International
+Workshop on Climate Informatics (CI2019) | 2019_Bano_CI2019.pdf
 |  |  |  |
