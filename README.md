@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3690133.svg)](https://doi.org/10.5281/zenodo.3690133)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3731351.svg)](https://doi.org/10.5281/zenodo.3731351)
 
 # DeepDownscaling
 ### Deep learning approaches for statistical downscaling in climate
