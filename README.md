@@ -13,7 +13,7 @@ The table below lists the documents (Jupyter notebooks, scripts, etc.) contained
 | Notebook files  | Article Title | Journal | Paper files 	
 |---|---|---|---
 | 2021_Bano_NSD.ipynb | DeepESD: An Ensemble of Regional Climate Change Projections over Europe based on Deep Learning Downscaling | Scientific Data (Nature) | 	-
-| 2020_Bano_CD.ipynb | On the suitability of deep convolutional neural networks for continental-wide downscaling of climate change projections | Climate Dynamics | 	-
+| 2020_Bano_CD.ipynb | On the suitability of deep convolutional neural networks for continental-wide downscaling of climate change projections | Climate Dynamics | 	https://doi.org/10.1007/s00382-021-05847-0
 | 2020_Bano_CI.ipynb | Understanding Deep Learning Decisions in Statistical Downscaling Models | International Conference Proceedings Series (ICPS) | 	https://doi.org/10.1145/3429309.3429321 2020_Bano_CI.pdf
 | 2020_Bano_GMD.ipynb 2020_Bano_GMD_FULL.ipynb | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | Geoscientific Model Development | 	https://doi.org/10.5194/gmd-2019-278 
 | 2019_Bano_CI.ipynb | The Importance of Inductive Bias in Convolutional Models for Statistical Downscaling | Proceedings of the 9th International Workshop on Climate Informatics (CI2019) | http://dx.doi.org/10.5065/y82j-f154 2019_Bano_CI.pdf
